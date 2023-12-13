@@ -15,6 +15,7 @@ This repository houses notebooks and data for a project on Ground-level Ozone (O
    - Data Transformation and Train-Test Split
    - Grid Search and ACF PACF Analysis
    - ARIMA, SARIMAX, and Holt-Winters Forecasting
+   - **If the project is too large to be viewed, a condensed version can be found on my Kaggle: [Kaggle Version](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-project)***
 
 ## Data
 - Dataset: `pollution_2000_2023.csv`
