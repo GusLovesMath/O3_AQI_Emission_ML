@@ -4,6 +4,10 @@
 
 This repository houses notebooks and data for a project on Ground-level Ozone (O3) Air Quality Index (AQI) trends in impactful U.S. regions. Analyzing data from 2000 to 2023, the project aims to provide insights into O3 pollution for informed policy decisions.
 
+## Data
+- The data was first compiled by users BrendaSo and ANGELA KIM. I completed the compilation for the years 2021-2023.
+- [Data Link](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022/data)
+
 ## Notebooks
 
 1. **Project_Proposal_GY.ipynb**
@@ -17,9 +21,7 @@ This repository houses notebooks and data for a project on Ground-level Ozone (O
    - ARIMA, SARIMAX, and Holt-Winters Forecasting
    - ***If the project is too large to be viewed, a condensed version can be found on my Kaggle: [Kaggle Version](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-project)***
 
-## Data
-- Dataset: `pollution_2000_2023.csv`
-- [Data Link](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022/data)
+
 
 ## Project Summary
 Addressing O3 pollution, the project provides actionable insights through EDA and time-series modeling methods in two notebooks.
