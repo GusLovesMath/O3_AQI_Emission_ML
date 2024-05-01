@@ -1,32 +1,43 @@
 # Ozone AQI Trends Project
 
+## Important Viewing Information
+For the best viewing experience, especially due to the size and complexity of the notebook, please view this project on Kaggle or download the notebooks.
+- **Project Proposal Notebook**: [Proposal on Kaggle](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-proposal)
+- **Main Project Notebook**: [Project on Kaggle](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-project)
+
 ## Overview
 
-This repository houses notebooks and data for a project on Ground-level Ozone (O3) Air Quality Index (AQI) trends in impactful U.S. regions. Analyzing data from 2000 to 2023, the project aims to provide insights into O3 pollution for informed policy decisions.
+This repository hosts notebooks and data for analyzing Ground-level Ozone (O3) Air Quality Index (AQI) trends in critical U.S. regions from 2000 to 2023. The project aims to offer insights into O3 pollution to support informed environmental policy-making.
 
 ## Data
-- The data was first compiled by users BrendaSo and ANGELA KIM. I completed the compilation for the years 2021-2023.
-- [Data Link](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022/data)
+- The data, initially compiled by BrendaSo and ANGELA KIM, was further enriched by me for the years 2021-2023.
+- **Data Repository**: [US Pollution Data on Kaggle](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022/data)
 
 ## Notebooks
 
-1. **Project_Proposal_GY.ipynb**
-   - O3 AQI trends (2000-2022)
-   - EDA and Regression Analysis for O3 emission trends
-
-2. **Project_GY.ipynb**
-   - O3 AQI trends (2000-2023)
-   - Data Transformation and Train-Test Split
-   - Grid Search and ACF PACF Analysis
-   - ARIMA, SARIMAX, and Holt-Winters Forecasting
-   - ***If the project is too large to be viewed, a condensed version can be found on my Kaggle: [Kaggle Version](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-project)***
-
-
+### Detailed Analysis Notebooks:
+1. **Project Proposal Notebook**
+   - Initial proposal with preliminary EDA and regression analysis of O3 emission trends.
+2. **Main Project Notebook**
+   - Comprehensive analysis including:
+     - Detailed EDA and trend analysis from 2000-2023
+     - Data transformation, train-test split for forecasting
+     - Grid search for hyperparameter tuning, ACF and PACF analysis
+     - Forecasting using ARIMA, SARIMAX, and Holt-Winters methods
 
 ## Project Summary
-Addressing O3 pollution, the project provides actionable insights through EDA and time-series modeling methods in two notebooks.
+
+The O3 pollution project delivers actionable insights through extensive exploratory data analysis (EDA) and advanced time-series modeling techniques. These insights are documented in two primary notebooks.
 
 ## Dependencies
 
-- Python
-- Libraries: Pandas 2.1.1, Numpy 1.26.2, Scikit-learn 1.3.1, Statsmodels 0.14.0, SciPy 1.11.3, Matplotlib 3.8.0, Plotly 5.18.0, Seaborn 0.13.0
+- **Programming Language**: Python 3.11
+- **Libraries**:
+  - Pandas 2.1.1
+  - Numpy 1.26.2
+  - Scikit-learn 1.3.1
+  - Statsmodels 0.14.0
+  - SciPy 1.11.3
+  - Matplotlib 3.8.0
+  - Plotly 5.18.0
+  - Seaborn 0.13.0
