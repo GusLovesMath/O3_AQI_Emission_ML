@@ -1,7 +1,7 @@
 # Ozone AQI Trends Project
 
 ## Important Viewing Information
-For the best viewing experience, especially due to the size and complexity of the notebook, please view this project on Kaggle or download the notebooks.
+For the best viewing experience, especially due to the size and complexity of the notebooks, please view this project on Kaggle or download the notebooks.
 - **Project Proposal Notebook**: [Proposal on Kaggle](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-proposal)
 - **Main Project Notebook**: [Project on Kaggle](https://www.kaggle.com/code/guslovesmath/o3-aqi-trends-in-high-impact-regions-project)
 
